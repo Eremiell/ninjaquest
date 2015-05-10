@@ -2,7 +2,7 @@
 
 ## About
 
-The idea started with optional Lab 15 of [edX UT.6.02x Embedded Systems - Shape the World](https://courses.edx.org/courses/UTAustinX/UT.6.02x/1T2015/info) course. However it overgrow the lab in several ways.
+The idea started with optional Lab 15 of [edX UT.6.02x Embedded Systems - Shape the World](https://courses.edx.org/courses/UTAustinX/UT.6.02x/1T2015/info) course. However it overgrows the lab in several ways.
 
 First of all, the original lab was intended as simple implementation of one of several 80's 8-bit games. Though my idea started with Mario, it evolved quite a bit.
 
@@ -43,6 +43,7 @@ If you trampled on this page by accident and feel interested, you should visit t
 
 ## Future Plans (not to appear in initial version)
 
+* Intro sequence
 * Bosses (The big ones, composed of several sprites. Like a dragon. Woot!)
 * Music (I've got some samples, but I don't really have licence to use them legally. I'll either buy the licence or try to compose something I guess.)
 * More environments (I'll probably start with just one, but would like to differentiate a bit later.)
