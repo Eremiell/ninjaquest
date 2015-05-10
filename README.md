@@ -8,7 +8,7 @@ First of all, the original lab was intended as simple implementation of one of s
 
 Second, I spent quite some time on studying the background materials, the datasheets (the original library for the display totally ignored some stuff, etc.), made custom sprites... All of it took me some time (and most possibly will take me some more time before I'm "done") and I missed the regular deadlines for this optional lab.
 
-Third, I'm thinking about adding some online features, which will break the original requirements in several ways. First, the C3100 wi-fi boosterpack was optional for the course (and will stay optional for this game) and wasn't used in the gamesystem at all, second the pin configuration on the original game system didn't allow for add of the boosterpack, so some pins will most probably be shifted around.
+Third, I'm thinking about adding some online features, which will break the original requirements in several ways. First, the CC3100 wi-fi boosterpack was optional for the course (and will stay optional for this game) and wasn't used in the gamesystem at all, second the pin configuration on the original game system didn't allow for add of the boosterpack, so some pins will most probably be shifted around.
 
 ## Theme
 
@@ -30,7 +30,7 @@ The game is still WIP, files in the repo right now are placeholders and represen
 
 Initial version of this game should appear in coming weeks including schematics etc. There's still quite some work to do on it and there's not yet much to see.
 
-If you trampled on this page by accident and feel interested, you should visit the [course kit page](http://users.ece.utexas.edu/~valvano/edX/worldwide.html) to get the right parts. Don't forget the Nokia LCD (I got mine cheap out of [DealExtreme](http://www.dx.com/p/arduino-1-6-lcd-display-screen-for-nokia-5110-red-silver-140226)), the stereo jack port (wasn't in my shopping cart for some obscure reason), some wiring (got myself a 24G wire and cut it into 5-20cm pieces) and if you wanna try the online features, you'll need the C3100 as well.
+If you trampled on this page by accident and feel interested, you should visit the [course kit page](http://users.ece.utexas.edu/~valvano/edX/worldwide.html) to get the right parts. Don't forget the Nokia LCD (I got mine cheap out of [DealExtreme](http://www.dx.com/p/arduino-1-6-lcd-display-screen-for-nokia-5110-red-silver-140226)), the stereo jack port (wasn't in my shopping cart for some obscure reason), some wiring (got myself a 24G wire and cut it into 5-20cm pieces) and if you wanna try the online features, you'll need the CC3100 as well.
 
 ## Features (to appear in initial version)
 
